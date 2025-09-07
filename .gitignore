@@ -1,0 +1,57 @@
+# ========================
+# Node.js / npm / yarn / pnpm
+# ========================
+node_modules/
+dist/
+dist-ssr/
+build/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ========================
+# Variáveis de ambiente
+# ========================
+.env
+*.env
+
+# ========================
+# Editor directories and files
+# ========================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# ========================
+# Arquivos temporários / cache
+# ========================
+*.tmp
+*.temp
+*.cache
+*.bak
+
+# ========================
+# Frontend específico (Vite/React)
+# ========================
+node_modules/
+build/
+out/
+*.local
+
+# ========================
+# Backend específico
+# ========================
+dist/
