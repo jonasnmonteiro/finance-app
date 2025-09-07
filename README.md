@@ -1,5 +1,4 @@
-# Finance SaaS
-
+# Finance App
 Projeto acadêmico de controle financeiro, utilizando **React + TailwindCSS** no frontend e **Node.js + Express + TypeScript** no backend. Integração com **Supabase** para autenticação e banco de dados.
 
 ---
